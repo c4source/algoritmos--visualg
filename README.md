@@ -1,0 +1,2 @@
+# algoritmos-visualg
+visualg exericicos 
